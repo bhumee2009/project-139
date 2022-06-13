@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid lightblue;
+}
+
+h4{
+    background-color: aliceblue;
+    line-height: 2;
+    position: sticky;
+    bottom: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instructions{
+    display:list-item;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    
+}
